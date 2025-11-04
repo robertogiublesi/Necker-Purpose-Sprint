@@ -15,7 +15,7 @@ One-click vault for Virgin eyes only.
 ## Download the Future
 - [Executive-Summary-Virgin.pdf](./docs/exec-summary-virgin.pdf)
 - [Gemini-Reference.pdf](./docs/Gemini_Reference.pdf)
-- [Kimi-Reference.pdf](./docs/ref-kimi.pdf)
+- [Kimi-Reference.pdf](./docs/Kimi_Reference.pdf)
 - [Voice-Note-Transcript.txt](./docs/voice-note-transcript.txt)
 
 
