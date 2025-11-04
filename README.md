@@ -15,8 +15,8 @@ One-click vault for Virgin eyes only.
 [Executive-Summary-Virgin.pdf](./Executive-Summary-Virgin.pdf) ← entire proposal in one click.
 
 ## AI References
-[Gemini-Reference.pdf](./Gemini-Reference.pdf)  
-[Kimi-Reference.pdf](./Kimi-Reference.pdf)
+[Gemini-Reference.pdf](.docs/Gemini-Reference.pdf)  
+[Kimi-Reference.pdf](.docs/Kimi-Reference.pdf)
 
 if (dream && data) {
   return future.childrenLaugh();
